@@ -13,3 +13,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-01-03 | 17:16:06 | im_shadowpool | test: verify theme loader behavior |
 | 2024-01-04 | 10:12:14 | im_shadowpool | feat: initialize Card component layout |
 | 2024-01-04 | 11:45:27 | im_shadowpool | style: add flip card 3D transform animations |
+| 2024-01-04 | 14:38:40 | im_shadowpool | fix: prevent image dragging on card elements |
