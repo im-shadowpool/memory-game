@@ -16,3 +16,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-01-04 | 14:38:40 | im_shadowpool | fix: prevent image dragging on card elements |
 | 2024-01-05 | 10:12:14 | im_shadowpool | style: refine card border radius and shadow depth |
 | 2024-01-08 | 10:12:14 | im_shadowpool | feat: implement card flip logic and state machine |
+| 2024-01-08 | 11:45:27 | im_shadowpool | feat: add matching pair detection helper |
