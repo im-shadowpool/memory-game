@@ -19,3 +19,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-01-08 | 11:45:27 | im_shadowpool | feat: add matching pair detection helper |
 | 2024-01-08 | 14:38:40 | im_shadowpool | refactor: optimize state updates during card comparison |
 | 2024-01-08 | 16:36:53 | im_shadowpool | style: add visual pulse indicator on card match |
+| 2024-01-09 | 10:12:14 | im_shadowpool | feat: add sound effect triggers on card click |
