@@ -27,3 +27,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-01-10 | 16:36:53 | im_shadowpool | perf: avoid re-shuffling on unnecessary re-renders |
 | 2024-01-10 | 17:16:06 | im_shadowpool | test: add unit test suite for matching verification |
 | 2024-01-10 | 19:07:19 | im_shadowpool | fix: resolve duplicate card assignment edge case |
+| 2024-01-10 | 21:27:32 | im_shadowpool | docs: document game loop state transitions |
