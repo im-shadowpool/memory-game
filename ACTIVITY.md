@@ -23,3 +23,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-01-09 | 11:45:27 | im_shadowpool | fix: mute audio context gracefully when unavailable |
 | 2024-01-10 | 10:12:14 | im_shadowpool | feat: build core game loop and matching engine |
 | 2024-01-10 | 11:45:27 | im_shadowpool | feat: support dynamic board layout generation |
+| 2024-01-10 | 14:38:40 | im_shadowpool | refactor: extract shuffle algorithm using Fisher-Yates |
