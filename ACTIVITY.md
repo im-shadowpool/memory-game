@@ -39,3 +39,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-01-15 | 10:12:14 | im_shadowpool | feat: create game victory modal screen |
 | 2024-01-15 | 11:45:27 | im_shadowpool | feat: add confetti celebration particle effect |
 | 2024-01-15 | 14:38:40 | im_shadowpool | style: refine modal backdrop blur and animation |
+| 2024-01-15 | 16:36:53 | im_shadowpool | fix: handle escape key to dismiss modal |
