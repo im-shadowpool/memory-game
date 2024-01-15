@@ -37,3 +37,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-01-14 | 10:12:14 | im_shadowpool | style: adjust card spacing for compact screens |
 | 2024-01-14 | 11:45:27 | im_shadowpool | feat: add subtle hover elevation on card face |
 | 2024-01-15 | 10:12:14 | im_shadowpool | feat: create game victory modal screen |
+| 2024-01-15 | 11:45:27 | im_shadowpool | feat: add confetti celebration particle effect |
