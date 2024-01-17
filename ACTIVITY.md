@@ -41,3 +41,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-01-15 | 14:38:40 | im_shadowpool | style: refine modal backdrop blur and animation |
 | 2024-01-15 | 16:36:53 | im_shadowpool | fix: handle escape key to dismiss modal |
 | 2024-01-17 | 10:12:14 | im_shadowpool | feat: implement responsive board grid scaling |
+| 2024-01-17 | 11:45:27 | im_shadowpool | style: add flex wrap fallbacks for mobile layouts |
