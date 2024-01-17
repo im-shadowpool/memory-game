@@ -44,3 +44,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-01-17 | 11:45:27 | im_shadowpool | style: add flex wrap fallbacks for mobile layouts |
 | 2024-01-17 | 14:38:40 | im_shadowpool | refactor: calculate card dimensions dynamically based on viewport |
 | 2024-01-17 | 16:36:53 | im_shadowpool | perf: eliminate layout shift during card render |
+| 2024-01-17 | 17:16:06 | im_shadowpool | fix: handle orientation change on tablet devices |
