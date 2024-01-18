@@ -46,3 +46,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-01-17 | 16:36:53 | im_shadowpool | perf: eliminate layout shift during card render |
 | 2024-01-17 | 17:16:06 | im_shadowpool | fix: handle orientation change on tablet devices |
 | 2024-01-17 | 19:07:19 | im_shadowpool | style: fine-tune theme background contrast |
+| 2024-01-18 | 10:12:14 | im_shadowpool | feat: introduce 2x3, 3x4, 4x4, and 4x6 board size selection |
