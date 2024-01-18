@@ -48,3 +48,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-01-17 | 19:07:19 | im_shadowpool | style: fine-tune theme background contrast |
 | 2024-01-18 | 10:12:14 | im_shadowpool | feat: introduce 2x3, 3x4, 4x4, and 4x6 board size selection |
 | 2024-01-18 | 11:45:27 | im_shadowpool | fix: ensure total cards count is always even |
+| 2024-01-18 | 14:38:40 | im_shadowpool | style: add segmented control for difficulty picker |
