@@ -51,3 +51,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-01-18 | 14:38:40 | im_shadowpool | style: add segmented control for difficulty picker |
 | 2024-01-19 | 10:12:14 | im_shadowpool | feat: save best scores and shortest times to localStorage |
 | 2024-01-19 | 11:45:27 | im_shadowpool | fix: handle quota exceeded exception gracefully |
+| 2024-01-22 | 10:12:14 | im_shadowpool | feat: implement instant restart game button |
