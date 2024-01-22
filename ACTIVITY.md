@@ -52,3 +52,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-01-19 | 10:12:14 | im_shadowpool | feat: save best scores and shortest times to localStorage |
 | 2024-01-19 | 11:45:27 | im_shadowpool | fix: handle quota exceeded exception gracefully |
 | 2024-01-22 | 10:12:14 | im_shadowpool | feat: implement instant restart game button |
+| 2024-01-22 | 11:45:27 | im_shadowpool | refactor: centralize resetGameState method |
