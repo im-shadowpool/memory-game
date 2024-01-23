@@ -58,3 +58,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-01-23 | 11:45:27 | im_shadowpool | feat: add Pumpkin theme visual assets |
 | 2024-01-23 | 14:38:40 | im_shadowpool | style: add smooth theme transition effect on switch |
 | 2024-01-23 | 16:36:53 | im_shadowpool | fix: persist chosen theme preference |
+| 2024-01-23 | 17:16:06 | im_shadowpool | docs: update theme customization guide |
