@@ -64,3 +64,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-01-25 | 10:12:14 | im_shadowpool | perf: optimize card flip rendering with will-change CSS |
 | 2024-01-25 | 11:45:27 | im_shadowpool | refactor: memoize Card components with React.memo |
 | 2024-01-25 | 14:38:40 | im_shadowpool | perf: clean up interval listeners on unmount |
+| 2024-01-25 | 16:36:53 | im_shadowpool | fix: prevent rapid double-clicks from breaking flip state |
