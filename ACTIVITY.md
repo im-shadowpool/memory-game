@@ -68,3 +68,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-01-25 | 17:16:06 | im_shadowpool | test: verify card click throttle behavior |
 | 2024-01-25 | 19:07:19 | im_shadowpool | style: enhance active card outline for high accessibility |
 | 2024-01-25 | 21:27:32 | im_shadowpool | chore: clean up console debug logs |
+| 2024-01-27 | 10:12:14 | im_shadowpool | docs: add preview screenshots and gameplay GIF links |
