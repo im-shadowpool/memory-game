@@ -72,3 +72,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-01-27 | 11:45:27 | im_shadowpool | style: refine header navigation bar alignment |
 | 2024-01-28 | 10:12:14 | im_shadowpool | feat: add sound toggle mute button in header |
 | 2024-01-28 | 11:45:27 | im_shadowpool | style: add audio wave icon indicator |
+| 2024-01-28 | 14:38:40 | im_shadowpool | fix: keep audio toggle state synchronized across tabs |
