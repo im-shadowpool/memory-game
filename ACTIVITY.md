@@ -74,3 +74,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-01-28 | 11:45:27 | im_shadowpool | style: add audio wave icon indicator |
 | 2024-01-28 | 14:38:40 | im_shadowpool | fix: keep audio toggle state synchronized across tabs |
 | 2024-01-29 | 10:12:14 | im_shadowpool | chore: configure Vercel deployment pipeline settings |
+| 2024-01-29 | 11:45:27 | im_shadowpool | fix: resolve public URL asset resolution in production |
