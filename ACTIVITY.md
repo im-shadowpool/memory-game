@@ -78,3 +78,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-01-29 | 14:38:40 | im_shadowpool | perf: enable asset caching headers |
 | 2024-01-29 | 16:36:53 | im_shadowpool | docs: update deployment and live demo link in README |
 | 2024-01-30 | 10:12:14 | im_shadowpool | feat: add keyboard navigation support for cards (Tab + Enter) |
+| 2024-01-30 | 11:45:27 | im_shadowpool | style: add visible focus rings for keyboard users |
