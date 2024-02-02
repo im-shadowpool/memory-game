@@ -86,3 +86,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-02-01 | 11:49:28 | im_shadowpool | feat: implement custom board dimensions in settings |
 | 2024-02-02 | 10:14:11 | im_shadowpool | feat: add score multiplier for rapid consecutive matches |
 | 2024-02-02 | 11:49:28 | im_shadowpool | feat: support animated card border glow on match streak |
+| 2024-02-02 | 14:39:45 | im_shadowpool | feat: add timer pause when browser tab loses visibility |
