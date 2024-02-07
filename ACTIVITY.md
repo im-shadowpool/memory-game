@@ -95,3 +95,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-02-03 | 10:14:11 | im_shadowpool | feat: introduce Space Odyssey theme color scheme |
 | 2024-02-07 | 10:14:11 | im_shadowpool | feat: add restart game keyboard shortcut (Ctrl+R) |
 | 2024-02-07 | 11:49:28 | im_shadowpool | feat: add undo move penalty mechanism |
+| 2024-02-07 | 14:39:45 | im_shadowpool | feat: add hints system highlighting one matching pair |
