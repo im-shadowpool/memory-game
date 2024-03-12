@@ -184,3 +184,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-03-11 | 10:14:11 | im_shadowpool | fix: handle audio context autoplay restrictions gracefully |
 | 2024-03-11 | 11:49:28 | im_shadowpool | fix: resolve card flip glitch on iOS Safari mobile |
 | 2024-03-11 | 14:39:45 | im_shadowpool | fix: correct time elapsed formatting when minutes exceed 60 |
+| 2024-03-12 | 10:14:11 | im_shadowpool | fix: reset mismatch timeout properly on rapid restarts |
