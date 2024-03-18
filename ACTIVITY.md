@@ -200,3 +200,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-03-14 | 15:11:02 | im_shadowpool | chore: clean up deprecated CSS properties and warnings |
 | 2024-03-17 | 10:14:11 | im_shadowpool | feat: add smooth card flip audio feedback |
 | 2024-03-18 | 10:14:11 | im_shadowpool | feat: implement custom board dimensions in settings |
+| 2024-03-18 | 11:49:28 | im_shadowpool | feat: add score multiplier for rapid consecutive matches |
