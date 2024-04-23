@@ -283,3 +283,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-04-21 | 11:49:28 | im_shadowpool | refactor: organize audio assets into dedicated sound manager |
 | 2024-04-22 | 10:14:11 | im_shadowpool | perf: memoize Card components with React.memo |
 | 2024-04-23 | 10:14:11 | im_shadowpool | perf: optimize SVG asset delivery and compress card icons |
+| 2024-04-23 | 11:49:28 | im_shadowpool | perf: debounce window resize listener in board layout |
