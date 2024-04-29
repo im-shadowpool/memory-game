@@ -302,3 +302,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-04-26 | 18:13:36 | im_shadowpool | fix: correct time elapsed formatting when minutes exceed 60 |
 | 2024-04-28 | 10:14:11 | im_shadowpool | fix: reset mismatch timeout properly on rapid restarts |
 | 2024-04-28 | 11:49:28 | im_shadowpool | fix: ensure total cards count is strictly even on custom board |
+| 2024-04-29 | 10:14:11 | im_shadowpool | fix: prevent background scrolling while victory modal is active |
