@@ -305,3 +305,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-04-29 | 10:14:11 | im_shadowpool | fix: prevent background scrolling while victory modal is active |
 | 2024-05-01 | 10:14:11 | im_shadowpool | fix: handle localStorage quota exceeded error gracefully |
 | 2024-05-01 | 11:49:28 | im_shadowpool | docs: update gameplay rules and keyboard navigation in README |
+| 2024-05-01 | 14:39:45 | im_shadowpool | docs: add theme customization guide and screenshot previews |
