@@ -332,3 +332,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-05-14 | 14:39:45 | im_shadowpool | feat: add share score summary snippet to clipboard |
 | 2024-05-14 | 15:11:02 | im_shadowpool | feat: support custom theme import via JSON config |
 | 2024-05-14 | 17:43:19 | im_shadowpool | refactor: extract game loop state into custom useMemoryGame hook |
+| 2024-05-14 | 18:13:36 | im_shadowpool | refactor: simplify card comparison reducer logic |
