@@ -355,3 +355,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-05-20 | 15:11:02 | im_shadowpool | style: polish theme picker dropdown icons and layout |
 | 2024-05-20 | 17:43:19 | im_shadowpool | style: improve focus outlines for keyboard navigation accessibility |
 | 2024-05-20 | 18:13:36 | im_shadowpool | fix: prevent rapid multi-clicks from flipping more than two cards |
+| 2024-05-20 | 20:54:53 | im_shadowpool | fix: handle audio context autoplay restrictions gracefully |
