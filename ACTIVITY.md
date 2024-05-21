@@ -357,3 +357,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-05-20 | 18:13:36 | im_shadowpool | fix: prevent rapid multi-clicks from flipping more than two cards |
 | 2024-05-20 | 20:54:53 | im_shadowpool | fix: handle audio context autoplay restrictions gracefully |
 | 2024-05-21 | 10:14:11 | im_shadowpool | fix: resolve card flip glitch on iOS Safari mobile |
+| 2024-05-21 | 11:49:28 | im_shadowpool | fix: correct time elapsed formatting when minutes exceed 60 |
