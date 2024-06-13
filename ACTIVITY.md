@@ -402,3 +402,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-06-12 | 17:43:19 | im_shadowpool | perf: debounce window resize listener in board layout |
 | 2024-06-12 | 18:13:36 | im_shadowpool | perf: use requestAnimationFrame for particle confetti animation |
 | 2024-06-12 | 20:54:53 | im_shadowpool | perf: eliminate unnecessary re-renders during turn calculation |
+| 2024-06-13 | 10:14:11 | im_shadowpool | perf: apply CSS will-change property on active card transforms |
