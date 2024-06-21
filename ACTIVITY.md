@@ -433,3 +433,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-06-20 | 20:54:53 | im_shadowpool | feat: add smooth card flip audio feedback |
 | 2024-06-20 | 21:35:10 | im_shadowpool | feat: implement custom board dimensions in settings |
 | 2024-06-21 | 10:14:11 | im_shadowpool | feat: add score multiplier for rapid consecutive matches |
+| 2024-06-21 | 11:49:28 | im_shadowpool | feat: support animated card border glow on match streak |
