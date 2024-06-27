@@ -442,3 +442,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-06-27 | 14:39:45 | im_shadowpool | feat: add Retro Arcade 8-bit sound effects pack |
 | 2024-06-27 | 15:11:02 | im_shadowpool | feat: introduce Space Odyssey theme color scheme |
 | 2024-06-27 | 17:43:19 | im_shadowpool | feat: add restart game keyboard shortcut (Ctrl+R) |
+| 2024-06-27 | 18:13:36 | im_shadowpool | feat: add undo move penalty mechanism |
