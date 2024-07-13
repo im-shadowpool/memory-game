@@ -478,3 +478,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-07-12 | 14:39:45 | im_shadowpool | fix: ensure total cards count is strictly even on custom board |
 | 2024-07-13 | 10:14:11 | im_shadowpool | fix: prevent background scrolling while victory modal is active |
 | 2024-07-13 | 11:49:28 | im_shadowpool | fix: handle localStorage quota exceeded error gracefully |
+| 2024-07-13 | 14:39:45 | im_shadowpool | docs: update gameplay rules and keyboard navigation in README |
