@@ -493,3 +493,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-07-17 | 15:11:02 | im_shadowpool | feat: add score multiplier for rapid consecutive matches |
 | 2024-07-17 | 17:43:19 | im_shadowpool | feat: support animated card border glow on match streak |
 | 2024-07-17 | 18:13:36 | im_shadowpool | feat: add timer pause when browser tab loses visibility |
+| 2024-07-17 | 20:54:53 | im_shadowpool | feat: introduce zen mode without time pressure |
