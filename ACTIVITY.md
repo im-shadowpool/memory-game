@@ -539,3 +539,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-08-02 | 17:43:19 | im_shadowpool | docs: update gameplay rules and keyboard navigation in README |
 | 2024-08-04 | 10:14:11 | im_shadowpool | docs: add theme customization guide and screenshot previews |
 | 2024-08-04 | 11:49:28 | im_shadowpool | docs: document performance profiling results and improvements |
+| 2024-08-05 | 10:14:11 | im_shadowpool | docs: update deployment troubleshooting tips |
