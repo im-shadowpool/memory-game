@@ -618,3 +618,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-09-08 | 10:14:11 | im_shadowpool | feat: add restart game keyboard shortcut (Ctrl+R) |
 | 2024-09-09 | 10:14:11 | im_shadowpool | feat: add undo move penalty mechanism |
 | 2024-09-09 | 11:49:28 | im_shadowpool | feat: add hints system highlighting one matching pair |
+| 2024-09-09 | 14:39:45 | im_shadowpool | feat: show celebratory particle burst on record high score |
