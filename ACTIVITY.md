@@ -697,3 +697,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-10-15 | 10:14:11 | im_shadowpool | style: polish dark mode contrast and typography hierarchy |
 | 2024-10-15 | 11:49:28 | im_shadowpool | style: improve card shadow elevation on hover |
 | 2024-10-15 | 14:39:45 | im_shadowpool | style: adjust card aspect ratio for ultra-wide displays |
+| 2024-10-15 | 15:11:02 | im_shadowpool | style: add smooth cubic-bezier easing to card flip transitions |
