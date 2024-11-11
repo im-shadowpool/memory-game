@@ -736,3 +736,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-11-10 | 10:14:11 | im_shadowpool | feat: add hints system highlighting one matching pair |
 | 2024-11-10 | 11:49:28 | im_shadowpool | feat: show celebratory particle burst on record high score |
 | 2024-11-10 | 14:39:45 | im_shadowpool | feat: add share score summary snippet to clipboard |
+| 2024-11-11 | 10:14:11 | im_shadowpool | feat: support custom theme import via JSON config |
