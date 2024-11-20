@@ -745,3 +745,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-11-17 | 10:14:11 | im_shadowpool | refactor: replace inline style calculations with CSS classes |
 | 2024-11-17 | 11:49:28 | im_shadowpool | refactor: isolate local storage helper functions |
 | 2024-11-18 | 10:14:11 | im_shadowpool | refactor: organize audio assets into dedicated sound manager |
+| 2024-11-20 | 10:14:11 | im_shadowpool | perf: memoize Card components with React.memo |
