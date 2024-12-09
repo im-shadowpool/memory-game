@@ -789,3 +789,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-12-06 | 14:39:45 | im_shadowpool | feat: introduce Cyberpunk card deck theme |
 | 2024-12-08 | 10:14:11 | im_shadowpool | feat: add Retro Arcade 8-bit sound effects pack |
 | 2024-12-09 | 10:14:11 | im_shadowpool | feat: introduce Space Odyssey theme color scheme |
+| 2024-12-09 | 11:49:28 | im_shadowpool | feat: add restart game keyboard shortcut (Ctrl+R) |
