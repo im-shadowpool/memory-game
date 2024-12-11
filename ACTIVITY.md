@@ -797,3 +797,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2024-12-11 | 11:49:28 | im_shadowpool | feat: support custom theme import via JSON config |
 | 2024-12-11 | 14:39:45 | im_shadowpool | refactor: extract game loop state into custom useMemoryGame hook |
 | 2024-12-11 | 15:11:02 | im_shadowpool | refactor: simplify card comparison reducer logic |
+| 2024-12-11 | 17:43:19 | im_shadowpool | refactor: decouple sound synthesizer from UI components |
