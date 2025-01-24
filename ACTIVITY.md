@@ -860,3 +860,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2025-01-21 | 16:42:12 | im_shadowpool | feat: add score history table in high score modal |
 | 2025-01-21 | 17:24:31 | im_shadowpool | perf: use CSS transform instead of top/left positioning |
 | 2025-01-24 | 10:22:15 | im_shadowpool | refactor: simplify difficulty selection state handling |
+| 2025-01-24 | 11:53:34 | im_shadowpool | docs: update deployment troubleshooting guide |
