@@ -878,3 +878,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2025-02-10 | 11:53:34 | im_shadowpool | feat: support custom board background image upload |
 | 2025-02-10 | 14:51:53 | im_shadowpool | style: refine victory modal typography and button gradients |
 | 2025-02-11 | 10:22:15 | im_shadowpool | fix: handle edge case in rapid consecutive card flips |
+| 2025-02-13 | 10:22:15 | im_shadowpool | refactor: clean up legacy state variables in game controller |
