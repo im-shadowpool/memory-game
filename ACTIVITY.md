@@ -893,3 +893,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2025-02-22 | 11:53:34 | im_shadowpool | style: polish segmented control border radius |
 | 2025-02-25 | 10:22:15 | im_shadowpool | fix: prevent accidental board reset while timer is running |
 | 2025-02-25 | 11:53:34 | im_shadowpool | feat: add subtle sound effect for turn counter increment |
+| 2025-03-02 | 10:22:15 | im_shadowpool | perf: memoize theme loader to prevent duplicate asset fetches |
