@@ -901,3 +901,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2025-03-04 | 17:24:31 | im_shadowpool | refactor: extract audio synthesizer into standalone utility |
 | 2025-03-05 | 10:22:15 | im_shadowpool | style: add smooth hover scale on card back art |
 | 2025-03-05 | 11:53:34 | im_shadowpool | perf: optimize canvas particle rendering performance |
+| 2025-03-05 | 14:51:53 | im_shadowpool | fix: prevent touch drag event cancellation on Android browsers |
