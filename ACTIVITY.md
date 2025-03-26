@@ -913,3 +913,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2025-03-10 | 16:42:12 | im_shadowpool | style: enhance dark mode theme contrast ratios |
 | 2025-03-11 | 10:22:15 | im_shadowpool | fix: preserve audio mute state across browser sessions |
 | 2025-03-21 | 10:22:15 | im_shadowpool | chore: bump dependencies and audit vulnerabilities |
+| 2025-03-26 | 10:22:15 | im_shadowpool | feat: add score history table in high score modal |
