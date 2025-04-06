@@ -1,6 +1,15 @@
 .App {
-  max-width: 560px;
-  margin: 40px auto;
+  margin: 0 auto;
+  padding: 20px;
+  width: 100%;
+  height: 100%;
+}
+.title{
+  margin: 10px auto;
+  text-align: center;
+  font-size: 2.0em;
+  color: #fff;
+  text-shadow: 0px 0px 10px #000;
 }
 button {
   background: none;
@@ -19,8 +28,78 @@ button:hover {
 .card-grid{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
-  margin-top: 40px;
   grid-gap: 20px;
   align-items: center;
   justify-content: center;
+}
+
+.game-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  max-width: 600px;
+  align-self: center;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+
+/* Theme selection */
+.theme-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 20px;
+  gap: 50px;
+}
+
+.theme-selection{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.theme-card{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  border: 2px solid #fff;
+  border-radius: 4px;
+  cursor: pointer;
+  overflow: hidden;
+}
+.theme-card:hover img{
+  transform: scale(1.1);
+}
+.theme-card img{
+  width: 150px;
+  height: 150px;
+  transition: all 1s cubic-bezier(0.73, 0.02, 0.05, 1.18);
+} 
+
+.theme-card p{
+  opacity: 0;
+  margin-top: -50px;
+  transition: all 1s cubic-bezier(0.73, 0.02, 0.05, 1.18);
+  background: #1b1523;
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+  color: #fff;
+  box-shadow: 0px 0px 10px #000;
+  text-shadow: 0px 0px 10px #000; 
+  z-index: 10;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.theme-card:hover p{
+  opacity: 1;
+  margin-top: 0px;
+  transition: all 1s cubic-bezier(0.73, 0.02, 0.05, 1.18);
+
 }
