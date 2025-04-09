@@ -1,0 +1,21 @@
+/* forestTheme.css */  
+.forest-button {
+    background-color: transparent;
+    color: #dec57c;
+    border: 1px solid #dec57c;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: ease-in-out 0.2s;
+  }
+  
+  .forest-button:hover {
+    background-color: #fff;
+    color: #222254;
+  }
+
+  .forest-turns p{
+    color: #dec57c;
+  }

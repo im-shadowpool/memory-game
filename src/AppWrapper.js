@@ -9,7 +9,9 @@ function AppWrapper({ children }) {
     const routeBackgrounds = {
       "/": "#1b1523",          // Light Blue for Home
       "/theme/clash-of-clans": "#180828",     // Misty Rose for About
-      "/contact": "#e6ffe6",   // Light Green for Contact
+      "/theme/snow": "#acd2f3",   
+      "/theme/forest": "rgb(13 37 20)",   
+      "/theme/pumpkin": "#853918",   
     };
 
     const bgColor = routeBackgrounds[location.pathname] || "#1b1523"; // default

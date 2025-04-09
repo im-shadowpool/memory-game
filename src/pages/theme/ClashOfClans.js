@@ -1,5 +1,6 @@
 import React from 'react'
 import CardsComponent from '../../Components/CardsComponent';
+import "../../theme/coc.css"
 
 const ArrayOfCardsImgs = [
     { src: "/CardImages/coc/baloon.jpg", matched: false },
@@ -14,7 +15,7 @@ const coverImage = "/CardImages/coc/cover.jpg";
 
 const ClashOfClans = () => {
   return (
-    <CardsComponent ArrayOfCardsImgs={ArrayOfCardsImgs} cover={coverImage} />
+    <CardsComponent ArrayOfCardsImgs={ArrayOfCardsImgs} cover={coverImage} themeName="coc" />
   )
 }
 

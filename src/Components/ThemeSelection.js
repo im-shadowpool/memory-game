@@ -8,21 +8,24 @@ const ThemeSelection = () => {
         <Link to={"/theme/clash-of-clans"}>
           <div className="theme-card">
             <img src="/CardImages/coc/coc-bg.jpg" alt="clash-of-clans" />
-            <p>Clash of clans</p>
+            
           </div>
         </Link>
+        <Link to={"/theme/snow"}>
         <div className="theme-card">
-          <img src="/CardImages/coc/coc-bg.jpg" alt="clash-of-clans" />
-          <p>Clash of clans</p>
+          <img src="/CardImages/snow/bg.webp" alt="clash-of-clans" />
         </div>
+        </Link>
+        <Link to={"/theme/forest"}>
         <div className="theme-card">
-          <img src="/CardImages/coc/coc-bg.jpg" alt="clash-of-clans" />
-          <p>Clash of clans</p>
+          <img src="/CardImages/forest/forest-bg.webp" alt="clash-of-clans" />
         </div>
+        </Link>
+        <Link to={"/theme/pumpkin"}>
         <div className="theme-card">
-          <img src="/CardImages/coc/coc-bg.jpg" alt="clash-of-clans" />
-          <p>Clash of clans</p>
+          <img src="/CardImages/pumpkin/bg.webp" alt="clash-of-clans" />
         </div>
+        </Link> 
       </div>
     </div>
   );

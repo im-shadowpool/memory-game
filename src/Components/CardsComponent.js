@@ -3,7 +3,7 @@ import SingleCard from "./SingleCard";
 import Turns from "./Turns";
 
 
-const CardsComponent = ({ArrayOfCardsImgs, cover}) => {
+const CardsComponent = ({ArrayOfCardsImgs, cover, themeName}) => {
   const [cards, setCards] = useState([]);
   const [turns, setTurns] = useState(0);
   const [choiceOne, setChoiceOne] = useState(null);
@@ -55,9 +55,11 @@ const CardsComponent = ({ArrayOfCardsImgs, cover}) => {
     shuffleCards();
   }, []);
 
+  const themeButton = `${themeName}-button`;
+
   return (
     <div className="game-container">
-      <button onClick={shuffleCards}>New Game</button>
+      <button className={themeButton} onClick={shuffleCards}>New Game</button>
 
       <div className="card-grid">
         {cards.map((card) => (
@@ -72,7 +74,7 @@ const CardsComponent = ({ArrayOfCardsImgs, cover}) => {
         ))}
       </div>
 
-      <Turns turns={turns} />
+      <Turns turns={turns} turnsTheme={`${themeName}-turns`} />
     </div>
   );
 };

@@ -1,0 +1,21 @@
+/* pumpkinTheme.css */  
+.pumpkin-button {
+    background-color: transparent;
+    color: #fff1c8;
+    border: 1px solid #fff1c8;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: ease-in-out 0.2s;
+  }
+  
+  .pumpkin-button:hover {
+    background-color: #fff1c8;
+    color: #222254;
+  }
+
+  .pumpkin-turns p{
+    color: #fff1c8;
+  }

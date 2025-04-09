@@ -1,6 +1,6 @@
-const Turns = ({ turns }) => {
+const Turns = ({ turns, turnsTheme }) => {
     return (
-        <div>
+        <div className={turnsTheme}>
             <p>Turns: {turns}</p>
         </div>
     )
