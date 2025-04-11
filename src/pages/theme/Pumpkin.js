@@ -1,6 +1,6 @@
 import React from 'react'
 import CardsComponent from '../../Components/CardsComponent';
-import "../../theme/pumpkin.css"
+import "../../ThemeCSS/pumpkin.css"
 
 const ArrayOfCardsImgs = [
     { src: "/CardImages/pumpkin/pumpkin.webp", matched: false },
@@ -20,3 +20,5 @@ const Pumpkin = () => {
 }
 
 export default Pumpkin
+
+

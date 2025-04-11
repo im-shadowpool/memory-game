@@ -1,18 +1,22 @@
 import './SingleCard.css';
 
-export default function SingleCard(props) {
+export default function SingleCard({ card, handleChoice, flipped, matched, disabled, cover, gameCompleted, animationDelay }) {
 
-    const handleClick = () =>{
-      !props.disabled && props.handleChoice(props.card)  
+  const handleClick = () => {
+    if (!disabled) {
+      handleChoice(card);
     }
+  };
 
-    return (
-        <div className='card'>
-            <div className={props.flipped ? "flipped" : ""}>
-                <img className='front' src={props.card.src} alt="card front" />
-                <img className='back' src={props.cover} alt="card back" onClick={handleClick} />
-            </div>
-        </div>
-    )
-
+  return (
+    <div 
+      className={`card ${gameCompleted ? "game-over" : ""}`}
+      style={gameCompleted ? { animationDelay } : {}}
+    >
+      <div className={flipped ? "flipped" : ""} id={matched ? "matched" : ""}>
+        <img className='front' src={card.src} alt="card front" />
+        <img className='back' src={cover} alt="card back" onClick={handleClick} />
+      </div>
+    </div>
+  );
 }

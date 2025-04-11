@@ -1,6 +1,6 @@
 import React from 'react'
 import CardsComponent from '../../Components/CardsComponent';
-import "../../theme/coc.css"
+import "../../ThemeCSS/coc.css"
 
 const ArrayOfCardsImgs = [
     { src: "/CardImages/coc/baloon.jpg", matched: false },

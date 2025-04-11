@@ -16,6 +16,6 @@
     color: #222254;
   }
 
-  .coc-turns p{
-    color: #e2cc69;
+  .coc-button:active {
+    transform: scale(0.95);
   }

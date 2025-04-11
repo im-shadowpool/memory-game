@@ -1,6 +1,6 @@
 import React from 'react'
 import CardsComponent from '../../Components/CardsComponent';
-import "../../theme/snow.css"
+import "../../ThemeCSS/snow.css"
 
 const ArrayOfCardsImgs = [
     { src: "/CardImages/snow/bag.webp", matched: false },

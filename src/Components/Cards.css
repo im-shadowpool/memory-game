@@ -1,0 +1,122 @@
+.card-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 20px;
+    align-items: center;
+    justify-content: center;
+    transition: filter 1s ease;
+}
+
+.game-container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    max-width: 600px;
+    align-self: center;
+    margin: 0 auto;
+    padding: 50px 0 0;
+}
+
+.score-board {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.score-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    min-width: 105px;
+    padding: 5px 0px;
+    border-radius: 4px;
+    background: rgba(255, 255, 255, 0.8); /* Semi-transparent background */
+    backdrop-filter: blur(5px); /* Subtle blur for glass effect */
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.7);
+    transition: ease-in 0.2s;
+    cursor: default;
+}
+
+.score-div:hover {
+    background: rgba(255, 255, 255, 0.7);
+}
+
+.score-div p {
+    color: #111129;
+    font-size: 18px;
+}
+
+.score-div h3 {
+    color: #111129;
+    font-size: 26px;
+    font-weight: 500;
+}
+.score-div .timer {
+
+}
+
+.game-footer-buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    gap: 20px;
+}
+
+/* .game-footer-buttons button {
+    background-color: #180828;
+    color: #e2cc69;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: ease-in-out 0.2s;
+}
+
+.game-footer-buttons button:hover {
+    background-color: #180828ee;
+}
+
+.game-footer-buttons button:active {
+    transform: scale(0.95);
+} */
+
+.card-grid.game-over-grid {
+    filter: blur(5px);
+}
+
+.game-footer {
+    position: absolute;
+    top: 130%;
+    /* Initial state: near the bottom */
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+    padding: 30px 25px;
+    border-radius: 4px;
+    background: rgba(255, 255, 255, 0.2); /* Semi-transparent white */
+    backdrop-filter: blur(10px); /* This creates the blur/glass effect */
+    -webkit-backdrop-filter: blur(10px); /* For Safari */
+    border: 1px solid rgba(255, 255, 255, 0.3); /* Light border to enhance glass effect */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Soft shadow for depth */
+    color: #000;
+    transition: top 1s ease;
+    z-index: 1000;
+}
+
+.game-footer.game-over-footer {
+    top: 50%;
+    /* Center vertically within the game container */
+}

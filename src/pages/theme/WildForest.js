@@ -1,6 +1,6 @@
 import React from 'react'
 import CardsComponent from '../../Components/CardsComponent';
-import "../../theme/forest.css"
+import "../../ThemeCSS/forest.css"
 
 const ArrayOfCardsImgs = [
     { src: "/CardImages/forest/bear.webp", matched: false },

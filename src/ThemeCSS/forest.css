@@ -1,8 +1,8 @@
-/* pumpkinTheme.css */  
-.pumpkin-button {
+/* forestTheme.css */  
+.forest-button {
     background-color: transparent;
-    color: #fff1c8;
-    border: 1px solid #fff1c8;
+    color: #dec57c;
+    border: 1px solid #dec57c;
     padding: 10px 20px;
     border-radius: 5px;
     font-size: 16px;
@@ -11,11 +11,11 @@
     transition: ease-in-out 0.2s;
   }
   
-  .pumpkin-button:hover {
-    background-color: #fff1c8;
+  .forest-button:hover {
+    background-color: #fff;
     color: #222254;
   }
 
-  .pumpkin-turns p{
-    color: #fff1c8;
+  .forest-button:active {
+    transform: scale(0.95);
   }
