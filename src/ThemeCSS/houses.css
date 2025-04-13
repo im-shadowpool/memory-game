@@ -1,0 +1,21 @@
+/* houses.css */  
+.houses-button {
+    background-color: rgba(255, 255, 255, 0.4);
+    color: #325D5B;
+    border: 1px solid #325D5B;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: ease-in-out 0.3s;
+  }
+  
+  .houses-button:hover {
+    background-color: #325D5B;
+    color: #fff;
+    border: 1px solid #fff;
+  }
+
+  .houses-button:active {
+    transform: scale(0.95);
+  }

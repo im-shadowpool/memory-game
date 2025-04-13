@@ -12,6 +12,8 @@ function AppWrapper({ children }) {
       "/theme/snow": "#acd2f3",   
       "/theme/forest": "rgb(13 37 20)",   
       "/theme/pumpkin": "#853918",   
+      "/theme/houses": "#D3B79E",   
+      "/theme/sea-shell": "#cadfe1",   
     };
 
     const bgColor = routeBackgrounds[location.pathname] || "#1b1523"; // default

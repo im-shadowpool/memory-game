@@ -1,0 +1,21 @@
+/* sea-shell.css */  
+.sea-shell-button {
+    background-color: rgba(255, 255, 255, 0.6);
+    color: #566680;
+    border: 1px solid #566680;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: ease-in-out 0.3s;
+  }
+  
+  .sea-shell-button:hover {
+    background-color: #a3c6dc;
+    color: #222254;
+    border: 1px solid #fff;
+  }
+
+  .sea-shell-button:active {
+    scale:  0.75;
+  }

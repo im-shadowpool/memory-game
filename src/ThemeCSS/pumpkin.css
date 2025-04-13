@@ -7,13 +7,13 @@
     border-radius: 5px;
     font-size: 16px;
     cursor: pointer;
-    margin-top: 20px;
-    transition: ease-in-out 0.2s;
+    transition: ease-in-out 0.3s;
   }
   
   .pumpkin-button:hover {
     background-color: #fff1c8;
     color: #222254;
+    border: 1px solid #853918;
   }
 
   .pumpkin-button:active {
