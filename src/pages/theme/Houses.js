@@ -4,30 +4,11 @@ import "../../ThemeCSS/houses.css";
 import { useLocation } from 'react-router-dom';
 import InvalidMatchBoard from '../../Components/InvalidMatchBoard';
 
-const CardImages = [
-    { src: "/CardImages/houses/houses-1.webp", matched: false },
-    { src: "/CardImages/houses/houses-2.webp", matched: false },
-    { src: "/CardImages/houses/houses-3.webp", matched: false },
-    { src: "/CardImages/houses/houses-4.webp", matched: false },
-    { src: "/CardImages/houses/houses-5.webp", matched: false },
-    { src: "/CardImages/houses/houses-6.webp", matched: false },
-    { src: "/CardImages/houses/houses-7.webp", matched: false },
-    { src: "/CardImages/houses/houses-8.webp", matched: false },
-    { src: "/CardImages/houses/houses-9.webp", matched: false },
-    { src: "/CardImages/houses/houses-10.webp", matched: false },
-    { src: "/CardImages/houses/houses-11.webp", matched: false },
-    { src: "/CardImages/houses/houses-12.webp", matched: false },
-    { src: "/CardImages/houses/houses-13.webp", matched: false },
-    { src: "/CardImages/houses/houses-14.webp", matched: false },
-    { src: "/CardImages/houses/houses-15.webp", matched: false },
-    { src: "/CardImages/houses/houses-16.webp", matched: false },
-    { src: "/CardImages/houses/houses-17.webp", matched: false },
-    { src: "/CardImages/houses/houses-18.webp", matched: false },
-    { src: "/CardImages/houses/houses-19.webp", matched: false },
-    { src: "/CardImages/houses/houses-20.webp", matched: false },
-    { src: "/CardImages/houses/houses-21.webp", matched: false },
-    { src: "/CardImages/houses/houses-22.webp", matched: false },
-  ];
+
+const CardImages = Array.from({ length: 22 }, (_, i) => ({
+  src: `/CardImages/houses/houses-${i + 1}.webp`,
+  matched: false,
+}));
   
 
 const coverImage = "/CardImages/houses/cover.webp";

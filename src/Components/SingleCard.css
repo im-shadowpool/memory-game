@@ -47,7 +47,7 @@
 
 
 #matched {
-  filter: blur(1px) opacity(0.9) brightness(0.7);
+  filter: blur(1px) opacity(0.9) brightness(0.9);
   transition: ease 2s;
 }
 

@@ -4,21 +4,10 @@ import "../../ThemeCSS/forest.css"
 import { useLocation } from 'react-router-dom';
 import InvalidMatchBoard from '../../Components/InvalidMatchBoard';
 
-const CardImages = [
-    { src: "/CardImages/forest/bear.webp", matched: false },
-    { src: "/CardImages/forest/elephant.webp", matched: false },
-    { src: "/CardImages/forest/giraffe.webp", matched: false },
-    { src: "/CardImages/forest/lion.webp", matched: false },
-    { src: "/CardImages/forest/peacock.webp", matched: false },
-    { src: "/CardImages/forest/tiger.webp", matched: false },
-    { src: "/CardImages/coc/baloon.jpg", matched: false },
-    { src: "/CardImages/coc/barberian.jpg", matched: false },
-    { src: "/CardImages/coc/builder.jpg", matched: false },
-    { src: "/CardImages/coc/giant.jpg", matched: false },
-    { src: "/CardImages/coc/healer.jpg", matched: false },
-    { src: "/CardImages/coc/witch.jpg", matched: false },
-];
-
+const CardImages = Array.from({ length: 25 }, (_, i) => ({
+  src: `/CardImages/forest/forest-${i + 1}.webp`,
+  matched: false,
+}));
 const coverImage = "/CardImages/forest/cover.webp";
 
 

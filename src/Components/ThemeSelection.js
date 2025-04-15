@@ -15,7 +15,7 @@ const themes = [
   {
     name: "Forest",
     path: "forest",
-    img: "/CardImages/forest/forest-bg.webp",
+    img: "/CardImages/forest/bg.webp",
   },
   {
     name: "Pumpkin",
@@ -34,7 +34,7 @@ const themes = [
   }
 ];
 
-const boardSizes = ["2x3", "3x4", "3x6", "4x5", "4x6"];
+const boardSizes = ["2x3", "3x4", "3x6", "4x5", "4x6",  "4x7", "4x8", "5x6"];
 
 const ThemeSelection = () => {
   const [selectedBoard, setSelectedBoard] = useState(() => {

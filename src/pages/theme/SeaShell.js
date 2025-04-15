@@ -4,29 +4,10 @@ import "../../ThemeCSS/sea-shell.css";
 import { useLocation } from 'react-router-dom';
 import InvalidMatchBoard from '../../Components/InvalidMatchBoard';
 
-const CardImages = [
-    { src: "/CardImages/sea-shell/sea-shell-1.webp", matched: false },
-    { src: "/CardImages/sea-shell/sea-shell-2.webp", matched: false },
-    { src: "/CardImages/sea-shell/sea-shell-3.webp", matched: false },
-    { src: "/CardImages/sea-shell/sea-shell-4.webp", matched: false },
-    { src: "/CardImages/sea-shell/sea-shell-5.webp", matched: false },
-    { src: "/CardImages/sea-shell/sea-shell-6.webp", matched: false },
-    { src: "/CardImages/sea-shell/sea-shell-7.webp", matched: false },
-    { src: "/CardImages/sea-shell/sea-shell-8.webp", matched: false },
-    { src: "/CardImages/sea-shell/sea-shell-9.webp", matched: false },
-    { src: "/CardImages/sea-shell/sea-shell-10.webp", matched: false },
-    { src: "/CardImages/sea-shell/sea-shell-11.webp", matched: false },
-    { src: "/CardImages/sea-shell/sea-shell-12.webp", matched: false },
-    { src: "/CardImages/sea-shell/sea-shell-13.webp", matched: false },
-    { src: "/CardImages/sea-shell/sea-shell-14.webp", matched: false },
-    { src: "/CardImages/sea-shell/sea-shell-15.webp", matched: false },
-    { src: "/CardImages/sea-shell/sea-shell-16.webp", matched: false },
-    { src: "/CardImages/sea-shell/sea-shell-17.webp", matched: false },
-    { src: "/CardImages/sea-shell/sea-shell-18.webp", matched: false },
-    { src: "/CardImages/sea-shell/sea-shell-19.webp", matched: false },
-    { src: "/CardImages/sea-shell/sea-shell-20.webp", matched: false },
-    { src: "/CardImages/sea-shell/sea-shell-21.webp", matched: false },
-  ];
+const CardImages = Array.from({ length: 21 }, (_, i) => ({
+    src: `/CardImages/sea-shell/sea-shell-${i + 1}.webp`,
+    matched: false,
+}));
   
 
 const coverImage = "/CardImages/sea-shell/cover.webp";

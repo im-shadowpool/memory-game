@@ -4,20 +4,11 @@ import CardsComponent from "../../Components/CardsComponent";
 import InvalidMatchBoard from "../../Components/InvalidMatchBoard";
 import "../../ThemeCSS/pumpkin.css";
 
-const CardImages = [
-  { src: "/CardImages/pumpkin/pumpkin.webp", matched: false },
-  { src: "/CardImages/pumpkin/pumpkin1.webp", matched: false },
-  { src: "/CardImages/pumpkin/pumpkin3.webp", matched: false },
-  { src: "/CardImages/pumpkin/door.webp", matched: false },
-  { src: "/CardImages/pumpkin/box.webp", matched: false },
-  { src: "/CardImages/pumpkin/kettle.webp", matched: false },
-  { src: "/CardImages/coc/baloon.jpg", matched: false },
-  { src: "/CardImages/coc/barberian.jpg", matched: false },
-  { src: "/CardImages/coc/builder.jpg", matched: false },
-  { src: "/CardImages/coc/giant.jpg", matched: false },
-  { src: "/CardImages/coc/healer.jpg", matched: false },
-  { src: "/CardImages/coc/witch.jpg", matched: false },
-];
+const CardImages = Array.from({ length: 24 }, (_, i) => ({
+  src: `/CardImages/pumpkin/pumpkin-${i + 1}.webp`,
+  matched: false,
+}));
+
 
 const coverImage = "/CardImages/pumpkin/cover.webp";
 

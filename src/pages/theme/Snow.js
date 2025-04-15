@@ -4,20 +4,10 @@ import { useLocation } from 'react-router-dom';
 import InvalidMatchBoard from '../../Components/InvalidMatchBoard';
 import "../../ThemeCSS/snow.css"
 
-const CardImages = [
-    { src: "/CardImages/snow/bag.webp", matched: false },
-    { src: "/CardImages/snow/cake.webp", matched: false },
-    { src: "/CardImages/snow/hat.webp", matched: false },
-    { src: "/CardImages/snow/man.webp", matched: false },
-    { src: "/CardImages/snow/penguin.webp", matched: false },
-    { src: "/CardImages/snow/tree.webp", matched: false },
-    { src: "/CardImages/coc/baloon.jpg", matched: false },
-    { src: "/CardImages/coc/barberian.jpg", matched: false },
-    { src: "/CardImages/coc/builder.jpg", matched: false },
-    { src: "/CardImages/coc/giant.jpg", matched: false },
-    { src: "/CardImages/coc/healer.jpg", matched: false },
-    { src: "/CardImages/coc/witch.jpg", matched: false },
-];
+const CardImages = Array.from({ length: 24 }, (_, i) => ({
+  src: `/CardImages/snow/snow-${i + 1}.webp`,
+  matched: false,
+}));
 
 const coverImage = "/CardImages/snow/cover.webp";
 
