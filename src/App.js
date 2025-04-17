@@ -8,6 +8,8 @@ import WildForest from "./pages/theme/WildForest";
 import Pumpkin from "./pages/theme/Pumpkin";
 import SeaShell from "./pages/theme/SeaShell";
 import Houses from "./pages/theme/Houses";
+import Shapes from "./pages/theme/Shapes"
+import Temple from "./pages/theme/Temple"
 
 
 
@@ -27,6 +29,8 @@ function App() {
         <Route path="/theme/pumpkin" element={<Pumpkin />} />
         <Route path="/theme/houses" element={<Houses />} />
         <Route path="/theme/sea-shell" element={<SeaShell />} />
+        <Route path="/theme/shapes" element={<Shapes />} />
+        <Route path="/theme/temple" element={<Temple />} />
       </Routes>
     </Router>
     </div>

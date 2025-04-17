@@ -31,6 +31,16 @@ const themes = [
     name: "Sea Shell",
     path: "sea-shell",
     img: "/CardImages/sea-shell/bg.webp"
+  },
+  {
+    name: "Shapes",
+    path: "shapes",
+    img: "/CardImages/shapes/bg.webp"
+  },
+  {
+    name: "Temples",
+    path: "temple",
+    img: "/CardImages/temple/bg.webp"
   }
 ];
 
