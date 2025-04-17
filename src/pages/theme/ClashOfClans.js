@@ -10,13 +10,7 @@ const CardImages = [
   { src: "/CardImages/coc/builder.jpg", matched: false },
   { src: "/CardImages/coc/giant.jpg", matched: false },
   { src: "/CardImages/coc/healer.jpg", matched: false },
-  { src: "/CardImages/coc/witch.jpg", matched: false },
-  { src: "/CardImages/pumpkin/pumpkin.webp", matched: false },
-  { src: "/CardImages/pumpkin/pumpkin1.webp", matched: false },
-  { src: "/CardImages/pumpkin/pumpkin3.webp", matched: false },
-  { src: "/CardImages/pumpkin/door.webp", matched: false },
-  { src: "/CardImages/pumpkin/box.webp", matched: false },
-  { src: "/CardImages/pumpkin/kettle.webp", matched: false }
+  { src: "/CardImages/coc/witch.jpg", matched: false }
 ];
 
 const coverImage = "/CardImages/coc/cover.jpg";
