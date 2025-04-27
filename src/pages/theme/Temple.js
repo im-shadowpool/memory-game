@@ -4,7 +4,7 @@ import { useLocation } from 'react-router-dom';
 import InvalidMatchBoard from '../../Components/InvalidMatchBoard';
 import "../../ThemeCSS/temple.css"
 
-const CardImages = Array.from({ length: 21 }, (_, i) => ({
+const CardImages = Array.from({ length: 20 }, (_, i) => ({
   src: `/CardImages/temple/temple-${i + 1}.webp`,
   matched: false,
 }));
