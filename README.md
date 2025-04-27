@@ -36,7 +36,7 @@
 
 
 ```
-git clone https://github.com/your-username/memory-game.git
+git clone https://github.com/im-shadowpool/memory-game.git
 ```
 <br>
 <p>2. Enter directory</p>
