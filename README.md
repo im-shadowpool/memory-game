@@ -1,66 +1,58 @@
-# Getting Started with Create React App
+<h1 align="center" id="title">Memory Game</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center"><img src="https://socialify.git.ci/im-shadowpool/memory-game/image?font=Inter&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
 
-## Available Scripts
+<p id="description">A fun and customizable Memory Game built with React!<br>Test your memory skills challenge yourself with different board sizes and enjoy a variety of visual themes.</p>
 
-In the project directory, you can run:
+<h2>🚀 Demo</h2>
 
-### `npm start`
+[https://memory-game-nine-delta.vercel.app/](https://memory-game-nine-delta.vercel.app/)
+<br>
+<h2>🧐 Features</h2>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+*   <b>Theme Selection:</b> Choose from multiple unique themes (e.g. Clash of Clans Forest Snow Pumpkin) to personalize your game experience.
+*   <b>Customizable Board Sizes:</b> Select board layouts like 2x3 3x4 4x4 4x5 and 4x6 to adjust the difficulty.
+*   <b>Real-time Game Statistics:</b> Turns, Taken Misses, Accuracy Percentage, Timer (Elapsed Time).
+*   <b>Smooth Animations:</b> Visual transitions on card flips game completion and result screens.
+*   <b>Error Handling:</b> Automatically detects and handles invalid board setups (e.g. odd number of cards).
+<br>
 
-### `npm test`
+<h2>Project Screenshots:</h2>
+<br>
+<img src="https://memory-game-nine-delta.vercel.app/Screenshots/3.png" alt="project-screenshot" width="580" height="400/">
+<br><br>
+<img src="https://memory-game-nine-delta.vercel.app/Screenshots/1.png" alt="project-screenshot" width="580" height="400/">
+<br><br>
+<img src="https://memory-game-nine-delta.vercel.app/Screenshots/4.png" alt="project-screenshot" width="580" height="400/">
+<br><br>
+<img src="https://memory-game-nine-delta.vercel.app/Screenshots/2.png" alt="project-screenshot" width="580" height="400/">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<br><br>
 
-### `npm run build`
+<h2>🛠️ Installation Steps:</h2>
+<br>
+<p>1. Clone the project</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```
+git clone https://github.com/your-username/memory-game.git
+```
+<br>
+<p>2. Enter directory</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+cd memory-game
+```
+<br>
+<p>3. Install</p>
 
-### `npm run eject`
+```
+npm install
+```
+<br>
+<p>4. Run the project</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+```
+npm run dev
+```
