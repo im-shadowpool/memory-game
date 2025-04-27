@@ -20,7 +20,7 @@
 
 <h2>Project Screenshots:</h2>
 <br>
-<img src="https://memory-game-nine-delta.vercel.app/Screenshots/3.png" alt="project-screenshot" width="580" height="400/">
+<img src="https://memory-game-nine-delta.vercel.app/Screenshots/3.png" alt="project-screenshot" width="580" height="300/">
 <br><br>
 <img src="https://memory-game-nine-delta.vercel.app/Screenshots/1.png" alt="project-screenshot" width="580" height="400/">
 <br><br>
