@@ -936,3 +936,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2025-04-25 | 11:53:34 | im_shadowpool | fix: handle edge case in rapid consecutive card flips |
 | 2025-04-26 | 10:22:15 | im_shadowpool | refactor: clean up legacy state variables in game controller |
 | 2025-04-28 | 10:22:15 | im_shadowpool | feat: add keyboard shortcut guide tooltip |
+| 2025-04-29 | 10:22:15 | im_shadowpool | perf: reduce initial bundle size via dynamic import |
