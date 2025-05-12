@@ -947,3 +947,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2025-05-09 | 14:51:53 | im_shadowpool | docs: update deployment troubleshooting guide |
 | 2025-05-11 | 10:22:15 | im_shadowpool | feat: add retro pixel art theme assets |
 | 2025-05-11 | 11:53:34 | im_shadowpool | style: polish segmented control border radius |
+| 2025-05-12 | 10:22:15 | im_shadowpool | fix: prevent accidental board reset while timer is running |
