@@ -955,3 +955,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2025-05-13 | 11:53:34 | im_shadowpool | chore: optimize Vercel preview build pipeline |
 | 2025-05-13 | 14:51:53 | im_shadowpool | feat: add sound volume slider in settings drawer |
 | 2025-05-13 | 16:42:12 | im_shadowpool | refactor: extract audio synthesizer into standalone utility |
+| 2025-05-14 | 10:22:15 | im_shadowpool | style: add smooth hover scale on card back art |
