@@ -959,3 +959,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2025-05-14 | 11:53:34 | im_shadowpool | perf: optimize canvas particle rendering performance |
 | 2025-05-14 | 14:51:53 | im_shadowpool | fix: prevent touch drag event cancellation on Android browsers |
 | 2025-05-14 | 16:42:12 | im_shadowpool | docs: clarify local development setup in README |
+| 2025-05-15 | 10:22:15 | im_shadowpool | feat: support custom board background image upload |
