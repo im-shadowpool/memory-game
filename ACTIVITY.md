@@ -981,3 +981,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2025-06-02 | 16:42:12 | im_shadowpool | style: adjust card spacing for foldable phone viewports |
 | 2025-06-02 | 17:24:31 | im_shadowpool | refactor: organize icon components into shared directory |
 | 2025-06-03 | 10:22:15 | im_shadowpool | chore: optimize Vercel preview build pipeline |
+| 2025-06-04 | 10:22:15 | im_shadowpool | feat: add sound volume slider in settings drawer |
