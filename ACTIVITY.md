@@ -1019,3 +1019,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2025-08-07 | 11:53:34 | im_shadowpool | style: refine victory modal typography and button gradients |
 | 2025-08-07 | 14:51:53 | im_shadowpool | fix: handle edge case in rapid consecutive card flips |
 | 2025-08-07 | 16:42:12 | im_shadowpool | refactor: clean up legacy state variables in game controller |
+| 2025-08-07 | 17:24:31 | im_shadowpool | feat: add keyboard shortcut guide tooltip |
