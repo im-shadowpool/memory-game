@@ -1042,3 +1042,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2025-09-01 | 17:24:31 | im_shadowpool | style: add smooth hover scale on card back art |
 | 2025-09-02 | 10:22:15 | im_shadowpool | perf: optimize canvas particle rendering performance |
 | 2025-09-02 | 11:53:34 | im_shadowpool | fix: prevent touch drag event cancellation on Android browsers |
+| 2025-09-05 | 10:22:15 | im_shadowpool | docs: clarify local development setup in README |
