@@ -1091,3 +1091,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2025-11-05 | 10:22:15 | im_shadowpool | feat: add subtle sound effect for turn counter increment |
 | 2025-11-05 | 11:53:34 | im_shadowpool | perf: memoize theme loader to prevent duplicate asset fetches |
 | 2025-11-06 | 10:22:15 | im_shadowpool | style: adjust card spacing for foldable phone viewports |
+| 2025-11-06 | 11:53:34 | im_shadowpool | refactor: organize icon components into shared directory |
