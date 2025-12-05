@@ -1122,3 +1122,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2025-12-04 | 11:53:34 | im_shadowpool | refactor: organize icon components into shared directory |
 | 2025-12-04 | 14:51:53 | im_shadowpool | chore: optimize Vercel preview build pipeline |
 | 2025-12-05 | 10:22:15 | im_shadowpool | feat: add sound volume slider in settings drawer |
+| 2025-12-05 | 11:53:34 | im_shadowpool | refactor: extract audio synthesizer into standalone utility |
