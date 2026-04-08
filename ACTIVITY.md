@@ -1162,3 +1162,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2026-03-31 | 11:59:33 | im_shadowpool | perf: optimize asset caching headers for production build |
 | 2026-04-02 | 10:25:14 | im_shadowpool | fix: minor layout shift on small mobile screens |
 | 2026-04-07 | 10:25:14 | im_shadowpool | style: improve keyboard focus indicator accessibility |
+| 2026-04-08 | 10:25:14 | im_shadowpool | refactor: clean up unused CSS helper utility classes |
