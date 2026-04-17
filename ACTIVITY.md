@@ -1166,3 +1166,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2026-04-08 | 11:59:33 | im_shadowpool | docs: update live demo preview link in project documentation |
 | 2026-04-10 | 10:25:14 | im_shadowpool | perf: optimize sound synthesizer initialization latency |
 | 2026-04-14 | 10:25:14 | im_shadowpool | fix: ensure correct card hover elevation on touch devices |
+| 2026-04-17 | 10:25:14 | im_shadowpool | style: fine-tune modal animation timing curve |
