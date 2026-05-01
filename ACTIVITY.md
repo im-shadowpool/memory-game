@@ -1169,3 +1169,4 @@ Historical development timeline and milestone logs for the Memory Game project.
 | 2026-04-17 | 10:25:14 | im_shadowpool | style: fine-tune modal animation timing curve |
 | 2026-04-27 | 10:25:14 | im_shadowpool | chore: audit package dependencies for deprecations |
 | 2026-04-28 | 10:25:14 | im_shadowpool | docs: add developer contributing notes |
+| 2026-05-01 | 10:25:14 | im_shadowpool | perf: reduce redundant re-renders during state reset |
