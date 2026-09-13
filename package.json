@@ -18,7 +18,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "streak:preview": "node scripts/backfill-jan-2024.js --dry-run",
-    "streak:apply": "node scripts/backfill-jan-2024.js --run"
+    "streak:apply": "node scripts/backfill-jan-2024.js --run",
+    "streak:year-preview": "node scripts/backfill-year-2024.js --dry-run",
+    "streak:year-apply": "node scripts/backfill-year-2024.js --run"
   },
   "eslintConfig": {
     "extends": [
