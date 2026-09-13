@@ -22,7 +22,9 @@
     "streak:year-preview": "node scripts/backfill-year-2024.js --dry-run",
     "streak:year-apply": "node scripts/backfill-year-2024.js --run",
     "streak:2025-preview": "node scripts/backfill-year-2025.js --dry-run",
-    "streak:2025-apply": "node scripts/backfill-year-2025.js --run"
+    "streak:2025-apply": "node scripts/backfill-year-2025.js --run",
+    "streak:2026-preview": "node scripts/backfill-2026-h1.js --dry-run",
+    "streak:2026-apply": "node scripts/backfill-2026-h1.js --run"
   },
   "eslintConfig": {
     "extends": [
