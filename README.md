@@ -56,3 +56,8 @@ npm install
 ```
 npm run dev
 ```
+
+<br>
+
+## 📖 Documentation
+For community guides, milestone logs, and achievements reference, see the [Documentation Guide](docs/ACHIEVEMENTS_GUIDE.md).
